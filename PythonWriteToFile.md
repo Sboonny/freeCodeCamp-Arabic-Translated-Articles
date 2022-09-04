@@ -578,3 +578,26 @@ PermissionError: [Errno 13] Permission denied: 'data'
 
 عندما تواجح الأستثنائات في برنامجك يتوقف برنامجك عن العمل تماماً, ولكن يوجد في Python وسيلة تجعل من الممكن أستمرار البرنامج على العمل حتي عند وقوع الاستثناء, تسمي تعبير **`try/except`**.
 
+يمكن استخدام التعبير في برنامجك في حالة وقوع حدث غير متوقع. يكتب التعبير المبدئ بهذا الشكل: 
+
+```py
+try:
+	# Try to run this code
+except <type_of_exception>:
+	# If an exception of this type is raised, stop the process and jump to this block
+```
+
+مثل مع أستثناء `FileNotFoundError`:
+
+```py
+try:
+    f = open("names.txt")
+except FileNotFoundError:
+    print("The file doesn't exist")
+```
+
+يخبر هذه التعليمات التالي:
+
+- حاول فتح ملف يسمى `name.txt`.
+- عند وقوع `FileNotFoundError`, لا يتوقف البرنامج وأطبع بيان واضح إلى المستخدم.
+
