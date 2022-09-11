@@ -14,9 +14,9 @@ Original article: https://www.freecodecamp.org/news/npm-vs-npx-whats-the-differe
 
 أذا فضلت مشاهدة فيديو, يمكنك مشاهدة هذا الفيديو بالأنجليزية
 
-***remeber to embed the video***
-
-https://www.youtube.com/watch?v=fSHWc8RTJug&t=3s
+<video autosize="true">
+<source src="https://www.youtube.com/watch?v=fSHWc8RTJug&t=3s">
+</video>
 
 ## **إدارة حزمة بواسطة npm**
 
@@ -105,13 +105,13 @@ npx your-package
 npx cowsay wow
 ```
 
-***add cow picture here***
+![npm-vs-npx](https://i2.wp.com/neutrondev.com/wp-content/uploads/2020/01/npx-cowsay-wow-npm-vs-npx.jpg)
 
 هذا رائع لأنك قد ترغب باستخدام بعض أدوات مصدرة للأوامر ولكن لا تريد تركيبهم, وتقلل من تلوث المتغيرات العالمية التي يمكن تغيرها عند التركيب.
 
 ### **تفعيل التعليمات من GitHub مباشرتاً**
 
-***add GitHub picture command here***
+![execute-gist-scripts-with-npx](https://www.freecodecamp.org/news/content/images/2020/01/execute-gist-scripts-with-npx.jpg)
 
 يمكنك استخدام npx لتعامل مع المستودعات GitHub. يتكون التعليمات الأساسية من ملف JavaScript أساسي و `package.json`. كل ما تحتاجه فعله بعد أنشاء الملفات, هو تفعيل رابط المستودع بواسطة كما يوضح في الصورة.
 
@@ -129,7 +129,7 @@ npx cowsay wow
 npm v create-react-app
 ```
 
-***add version picture here***
+![create-react-app-dist-tags](https://www.freecodecamp.org/news/content/images/2020/01/create-react-app-dist-tags.jpg)
 
 استخدم npx لتركيب نسخة `next` بواسطة علامة dist في حزمة `create-react-app`, التي ستنشئ تطبيق داخل بيئة للأختبارات.
 
@@ -151,11 +151,11 @@ cd sandbox
 npm start
 ```
 
-***insert npm start picture here***
+![create-react-app-npx-next-version](https://www.freecodecamp.org/news/content/images/2020/01/create-react-app-npx-next-version.jpg)
 
 سوف يفتح المتصفح نسخة next من حزمة تطبيق React تلقائًا.
 
-***insert React app picture here***
+![react-app](https://www.freecodecamp.org/news/content/images/2020/01/react-app.jpg)
 
 ## **ملخص**
 
