@@ -185,3 +185,47 @@ Original author: The freeCodeCamp Editorial Team
 > “When you have wit of your own, it’s a pleasure to credit other people for theirs.”
 > ― Criss Jami
 
+أذا كان كودك مستوحى (أو مستعار) من كود أحدهم, أعطيه حقه. 
+
+قبل نشر درسك الذي مبني على عمل أخر, أسئل نفسك: هل يضيف درسي الكثير إلى درسهم؟ أن كانت الأجابة بلا, ربما لا تحتاج نشر الدرس.
+
+ملاحظة أخيرة عن أستعمال أسلوب الأخرين: من الأفضل استخدام أسلوبك عندما تقدر. لذلك بدلاً من نسخ/لصق وأنتساق مصادر أخرى بأفراط, حاول أستعاب المعلومة وشرحها باسلوبك. سيساعدك هذا على فهم الموضوع أفضل, ولن تغامر بسرقة أعمال شخص أخر.
+
+أذا استلزم استخدام اقتباس أو أستعارته من مصر أخر, **تأكد من أعطائه حقه بشكل صحيح**.
+
+### أمثالة عن سرقة المحتوى
+
+هنا أمثالة عن سرقة المحتوى - لتجنب فعل ذلك. يكون الأول واضح (نسخ المحتوي كلمة بكلمة):
+
+### النص الأصلي: 
+
+> Just a quick note before we get started: Instagram's desktop interface and mobile app are quite different. Most people use Instagram on their mobile device (from the Instagram app) because that's where you can actually post photos. [(Source: Abbey Rennemeyer)](https://www.freecodecamp.org/news/how-to-use-instagram-like-a-pro/)
+
+### النص المسروق:
+
+> Ok, everyone ready to learn about Instagram? Let's dive in!
+>
+> Just a quick note before we get started: Instagram's desktop interface and mobile app are quite different. Most people use Instagram on their mobile device (from the Instagram app) because that's where you can actually post photos.
+> 
+> Now that we have that out of the way, we're ready to go.
+
+كما ترى, النص المسروق مغلف بين نص أصلي. يكون من المغري إضافة جمل أو فقرات التي أنشئها أحدهم جيداً, لكن أن لم تعطه حقه, فتكون هذا سرقة.
+
+يمكن أن يكون المثال الثانى غير واضح بقدر ما. عند تغير تركيب أسلوب أحدهم, تظل سرقة محتوى.
+
+### النص الأصلي
+
+> There are many reasons you might want to share photos and videos on Instagram.
+>
+> Perhaps you're starting a business or launching a product. You might work for a company that wants to have an Instagram presence. Maybe you want to build your personal brand as a photographer, traveler, or artist. Or you just want to share what you're into right now via pictures.
+>
+>Whatever the reason, Instagram is a great place to share ideas, messaging, and art online. [(Source)](https://www.freecodecamp.org/news/how-to-use-instagram-like-a-pro/)
+
+### النص المسروق
+
+> **There are lots of reasons to share photos and videos on Insta.**
+>
+> **Maybe you're starting your own business or launching some product. Maybe you work for an organization who wants to have an Instagram presence. Or maybe you want to create your own brand. Or you just want to show what you're doing now in pictures.**
+>
+> **Either way, Instagram is a great place to post those ideas, messages, and art online.**
+ 
