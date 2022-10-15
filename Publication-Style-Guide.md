@@ -103,6 +103,24 @@ Original author: The freeCodeCamp Editorial Team
 
 - **أحذف أختصار الكلمات.** تُصَعب أضافتهم إلى الدرس إستعابه, فلا تستخدم أختصارات مغمورة. (نادر استخدام أختصارات لاتينية أو مثلها في اللغة العربية, لذلك تأخذ النصيحة السابقة عند كتابة "e.g." في الدرس, يفضل كتابة "for example").
 
+=====
+So try to use active voice in your tutorials whenever possible.
+
+Here's an example of active voice:
+
+"You can install Node.js by following these steps."
+
+Here's an example of passive voice:
+
+"Node.js can be installed by following these steps."
+
+It may seem subtle, but the active example connects more easily with the reader and helps them follow the instruction confidently.
+
+Sometimes it helps to think of writing a tutorial like you're explaining something to a friend. You don't need to use overly complex language, you'll be friendly and polite, and things will flow logically.
+
+=== 
+
+
 ## تيقن دِقَّة درسك. ثم تيقن دِقَّة درسك مرة أخرى.
 
 يكتب بعض المساهم أفقارهم في الورق بسرعة, يفعل آخرون بحوثهم قبل كتابة كلمة واحدة.
