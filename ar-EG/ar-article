@@ -1,4 +1,4 @@
-Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out!
+تخيل أنك تستعمل كودك في Git وشيء لم تسير الأمور على نحو مخطط له. So now you need to revert your last commit. How do you do it? Let's find out!
 
 There are two possible ways to undo your last commit. We'll look at both of them in this article.
 
