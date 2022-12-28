@@ -1,4 +1,4 @@
-تخيل أنك تستعمل كودك في Git وشيء لم تسير الأمور على نحو مخطط له. So now you need to revert your last commit. How do you do it? Let's find out!
+Say you're working on your code in Git and something didn't go as planned. So now you need to revert your last commit. How do you do it? Let's find out!
 
 There are two possible ways to undo your last commit. We'll look at both of them in this article.
 
@@ -20,6 +20,4 @@ A diagram showing that git reset --hard will change your commit history, but wil
 
 revert instead creates a new commit that undoes the changes, so if the commit to revert has already been pushed to a shared repository, it is best to use revert as it doesn't overwrite commit history.
 
-Conclusion You have learned two ways to undo the last commit and also when it's best to use one over the other.
-
-Now if you notice that your last commit introduces a bug or should have not been committed you know how to fix that!
+Conclusion You have learned two ways to
