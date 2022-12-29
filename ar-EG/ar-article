@@ -20,6 +20,4 @@ A diagram showing that git reset --hard will change your commit history, but wil
 
 revert instead creates a new commit that undoes the changes, so if the commit to revert has already been pushed to a shared repository, it is best to use revert as it doesn't overwrite commit history.
 
-Conclusion You have learned two ways to undo the last commit and also when it's best to use one over the other.
-
-Now if you notice that your last commit introduces a bug or should have not been committed you know how to fix that!
+Conclusion You have learned two ways to
